@@ -37,6 +37,7 @@
 ### 🗄️ Databases  
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MySQL" height="60">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="PostgreSQL" height="60">
 </div>
 
 ### 🛠 Tools and Platforms  
