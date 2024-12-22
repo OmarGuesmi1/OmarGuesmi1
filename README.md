@@ -7,34 +7,34 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/omar-guesmi/])  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github&logoColor=white)](https://github.com/OmarGuesmi1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-guesmi/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarGuesmi1)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 🌟 Programming Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)  
+![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)  
+![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)  
 
 ### 🔧 Frontend Development  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Angular](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)  
+![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)  
+![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)  
 
 ### ⚙️ Backend Development  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)  
+![Spring Boot](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)  
+![Symfony](https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg)  
 
 ### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
+![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)  
+![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)  
 
 ### 🛠 Tools and Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)  
+![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)  
 
 ---
 
@@ -48,10 +48,6 @@
 - 🌱 Mastering **Java**, **Angular**, and **Spring Boot** to build modern web applications.  
 - 💡 Developing full-stack projects and contributing to open-source.  
 - 🔍 Exploring advanced backend techniques and cloud integrations.  
-
----
-
-  
 
 ---
 
