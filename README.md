@@ -37,13 +37,11 @@
 ### 🗄️ Databases  
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="90">  
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="90">  
 </p>
 
 ### 🛠 Tools and Platforms  
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="90">  
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" height="90">  
 </p>
 
 ---
