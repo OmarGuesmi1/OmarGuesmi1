@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @OmarGuesmi1  
+# 👋 Hi, I’m @OmarGuesmi1
 
 👀 I’m passionate about **technology**, **frameworks**, and exploring innovative tools to solve real-world problems.  
 🌱 I’m currently learning **Angular**, **Spring Boot**, **Symfony**, and **Java** to enhance my skills as a software engineering student.  
@@ -15,32 +15,44 @@
 ## 🛠️ Tech Stack  
 
 ### 🌟 Programming Languages  
-![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)  
-![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)  
-![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)  
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="90">  
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" height="90">  
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript" height="90">  
+</p>
 
 ### 🔧 Frontend Development  
-![Angular](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)  
-![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)  
-![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)  
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="Angular" height="90">  
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5" height="90">  
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS3" height="90">  
+</p>
 
 ### ⚙️ Backend Development  
-![Spring Boot](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)  
-![Symfony](https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg)  
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot" height="90">  
+  <img src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg" alt="Symfony" height="90">  
+</p>
 
 ### 🗄️ Databases  
-![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)  
-![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)  
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="90">  
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="90">  
+</p>
 
 ### 🛠 Tools and Platforms  
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)  
-![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)  
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="90">  
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" height="90">  
+</p>
 
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarGuesmi1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGuesmi1&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarGuesmi1&show_icons=true&theme=radical" alt="GitHub Stats" height="165">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGuesmi1&layout=compact&theme=radical" alt="Top Languages" height="165">  
+</p>
 
 ---
 
@@ -51,4 +63,4 @@
 
 ---
 
-✨ Feel free to explore my repositories, collaborate, and connect! Together, we can create impactful solutions. 🚀  
+✨ Feel free to explore my repositories, collaborate, and connect! Together, we can create impactful solutions. 🚀
