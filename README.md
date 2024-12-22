@@ -16,34 +16,34 @@
 
 ### 🌟 Programming Languages  
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" height="120">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JavaScript" height="120">
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-horizontal.svg" alt="TypeScript" height="120">
+  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" height="70">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JavaScript" height="70">
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-horizontal.svg" alt="TypeScript" height="70">
 </div>
 
 ### 🔧 Frontend Development  
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-horizontal.svg" alt="Angular" height="120">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-horizontal.svg" alt="HTML5" height="120">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-horizontal.svg" alt="CSS3" height="120">
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-horizontal.svg" alt="Angular" height="70">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-horizontal.svg" alt="HTML5" height="70">
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-horizontal.svg" alt="CSS3" height="70">
 </div>
 
 ### ⚙️ Backend Development  
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-horizontal.svg" alt="Spring Boot" height="120">
-  <img src="https://www.vectorlogo.zone/logos/symfony/symfony-horizontal.svg" alt="Symfony" height="120">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-horizontal.svg" alt="Spring Boot" height="70">
+  <img src="https://www.vectorlogo.zone/logos/symfony/symfony-horizontal.svg" alt="Symfony" height="70">
 </div>
 
 ### 🗄️ Databases  
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MySQL" height="120">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="PostgreSQL" height="120">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MySQL" height="70">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="PostgreSQL" height="70">
 </div>
 
 ### 🛠 Tools and Platforms  
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-horizontal.svg" alt="Git" height="120">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-horizontal.svg" alt="Docker" height="120">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-horizontal.svg" alt="Git" height="70">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-horizontal.svg" alt="Docker" height="70">
 </div>
 
 ---
