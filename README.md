@@ -24,7 +24,7 @@
 ### 🔧 Frontend Development  
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/angular/angular-horizontal.svg" alt="Angular" height="70">
-  <img src="[https://www.vectorlogo.zone/logos/w3_html5/w3_html5-horizontal.svg](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)" alt="HTML5" height="70">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-horizontal.svg" alt="HTML5" height="70">
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-horizontal.svg" alt="CSS3" height="70">
 </div>
 
