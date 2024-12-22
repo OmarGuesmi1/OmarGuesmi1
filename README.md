@@ -15,44 +15,32 @@
 ## 🛠️ Tech Stack  
 
 ### 🌟 Programming Languages  
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" height="60">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JavaScript" height="60">
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-horizontal.svg" alt="TypeScript" height="60">
-</div>
+![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)  
+![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)  
+![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)  
 
 ### 🔧 Frontend Development  
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-horizontal.svg" alt="Angular" height="60">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-horizontal.svg" alt="HTML5" height="60">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-horizontal.svg" alt="CSS3" height="60">
-</div>
+![Angular](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)  
+![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)  
+![CSS3](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)  
 
 ### ⚙️ Backend Development  
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-horizontal.svg" alt="Spring Boot" height="60">
-  <img src="https://www.vectorlogo.zone/logos/symfony/symfony-horizontal.svg" alt="Symfony" height="60">
-</div>
+![Spring Boot](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)  
+![Symfony](https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg)  
 
 ### 🗄️ Databases  
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="MySQL" height="60">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="PostgreSQL" height="60">
-</div>
+![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)  
+![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)  
 
 ### 🛠 Tools and Platforms  
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-horizontal.svg" alt="Git" height="60">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-horizontal.svg" alt="Docker" height="60">
-</div>
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)  
+![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)  
 
 ---
 
 ## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarGuesmi1&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGuesmi1&layout=compact&theme=radical" alt="Top Languages" height="150">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarGuesmi1&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGuesmi1&layout=compact&theme=radical)  
 
 ---
 
