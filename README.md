@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="90">
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" height="90">
-  <img src="https://www.vectorlogo.zone/logos/vscode/vscode-ar21.svg" alt="VSCode" height="90">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VSCode" height="90">
 </p>
 
 ---
