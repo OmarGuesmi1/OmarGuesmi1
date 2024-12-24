@@ -38,7 +38,6 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="90">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" height="90">
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript" height="90">
   <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="Angular" height="90">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot" height="90">
   <img src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg" alt="Symfony" height="90">
@@ -48,14 +47,11 @@
 ### 🗄️ Databases & Cloud  
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="90">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="90">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase" height="90">
 </p>
 
 ### 🛠 Tools & Platforms  
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="90">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" height="90">
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" height="90">
   <img src="https://www.vectorlogo.zone/logos/vscode/vscode-ar21.svg" alt="VSCode" height="90">
 </p>
@@ -74,24 +70,6 @@
 
 ---
 
-## 🌟 Projects  
-
-### Featured Projects  
-- **[Project 1: Innovative Full-Stack App](https://github.com/OmarGuesmi1/project1)**  
-  🌟 Built using **Angular**, **Spring Boot**, and **MySQL**.  
-  🚀 Features robust authentication and a clean, responsive UI.  
-
-- **[Project 2: Open-Source Contribution](https://github.com/OmarGuesmi1/project2)**  
-  ✨ Contributed to an open-source **Symfony** project.  
-  🛠 Enhanced backend performance and added new features.  
-
-### More Projects  
-<p align="center">
-  Explore all my repositories on <a href="https://github.com/OmarGuesmi1?tab=repositories" target="_blank"><strong>GitHub</strong></a>.
-</p>
-
----
-
 ## 🎯 Current Focus and Goals  
 - 🌱 Deepening my expertise in **backend architecture** and **cloud technologies**.  
 - 💻 Building full-stack applications with clean, scalable, and maintainable code.  
@@ -103,6 +81,7 @@
 - 💡 I’m a tech enthusiast who loves debugging and solving challenges.  
 - 🌍 Apart from coding, I enjoy **traveling** and learning about different cultures.  
 - 🎵 Music helps me focus while coding.  
+- 🎥 Passionate about **anime**, **manga**, **series**, and **movies**.  
 
 ---
 
