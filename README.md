@@ -2,19 +2,21 @@
   <img src="https://github.com/OmarGuesmi1/OmarGuesmi1/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-12-24%20193932.png" alt="Profile Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm Omar Guesmi</h1>
+<h1 align="center">👋 Welcome to Omar Guesmi's GitHub</h1>
 
 <p align="center">
-  A passionate <strong>Software Engineering Student</strong> with a love for technology, frameworks, and building impactful solutions. 
+  <strong>Software Engineering Student</strong> | <strong>Tech Enthusiast</strong> | <strong>Problem Solver</strong>  
+  <br>
+  <em>"Turning innovative ideas into real-world solutions"</em>
 </p>
 
 ---
 
-## 🌟 About Me  
-- 👀 Interested in solving real-world problems using **modern technologies** and **frameworks**.  
-- 🌱 Currently enhancing my skills in **Angular**, **Spring Boot**, **Symfony**, and **Java**.  
-- ✨ Committed to continuous learning and building scalable, robust applications.  
-- 💡 Open to collaborating on projects and contributing to open-source.  
+## 🧑‍💻 About Me  
+- 🌟 I’m passionate about technology and creating impactful applications.  
+- 🚀 Currently diving deep into **Angular**, **Spring Boot**, **Symfony**, and **Java**.  
+- 🧠 I love solving challenging problems and exploring modern frameworks.  
+- 📚 Firm believer in **continuous learning** and staying updated with the latest tech trends.  
 
 ---
 
@@ -32,34 +34,30 @@
 
 ## 🛠️ Tech Stack  
 
-### 🖥️ Programming Languages  
+### 🚀 Languages & Frameworks  
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="90">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" height="90">
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript" height="90">
-</p>
-
-### 🌟 Frontend Development  
-<p align="center">
   <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="Angular" height="90">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5" height="90">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS3" height="90">
-</p>
-
-### ⚙️ Backend Development  
-<p align="center">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot" height="90">
   <img src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg" alt="Symfony" height="90">
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" height="90">
 </p>
 
-### 🗄️ Databases  
+### 🗄️ Databases & Cloud  
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="90">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="90">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase" height="90">
 </p>
 
-### 🔧 Tools and Platforms  
+### 🛠 Tools & Platforms  
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="90">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" height="90">
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" height="90">
+  <img src="https://www.vectorlogo.zone/logos/vscode/vscode-ar21.svg" alt="VSCode" height="90">
 </p>
 
 ---
@@ -70,13 +68,44 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGuesmi1&layout=compact&theme=radical" alt="Top Languages" height="165">
 </p>
 
----
-
-## 🚀 Current Focus and Goals  
-- 🌱 Deepening knowledge in **Java**, **Angular**, and **Spring Boot**.  
-- 💡 Working on full-stack projects and improving backend skills.  
-- 🔍 Exploring advanced backend techniques and cloud integrations.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OmarGuesmi1&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+</p>
 
 ---
 
-✨ Feel free to explore my repositories, collaborate, and connect! Together, we can create impactful solutions. 🚀
+## 🌟 Projects  
+
+### Featured Projects  
+- **[Project 1: Innovative Full-Stack App](https://github.com/OmarGuesmi1/project1)**  
+  🌟 Built using **Angular**, **Spring Boot**, and **MySQL**.  
+  🚀 Features robust authentication and a clean, responsive UI.  
+
+- **[Project 2: Open-Source Contribution](https://github.com/OmarGuesmi1/project2)**  
+  ✨ Contributed to an open-source **Symfony** project.  
+  🛠 Enhanced backend performance and added new features.  
+
+### More Projects  
+<p align="center">
+  Explore all my repositories on <a href="https://github.com/OmarGuesmi1?tab=repositories" target="_blank"><strong>GitHub</strong></a>.
+</p>
+
+---
+
+## 🎯 Current Focus and Goals  
+- 🌱 Deepening my expertise in **backend architecture** and **cloud technologies**.  
+- 💻 Building full-stack applications with clean, scalable, and maintainable code.  
+- 🧩 Exploring **AI tools**, **machine learning frameworks**, and cloud integrations.  
+
+---
+
+## 📢 Fun Facts  
+- 💡 I’m a tech enthusiast who loves debugging and solving challenges.  
+- 🌍 Apart from coding, I enjoy **traveling** and learning about different cultures.  
+- 🎵 Music helps me focus while coding.  
+
+---
+
+<p align="center">
+  🌟 <strong>Feel free to explore my repositories, collaborate on exciting projects, and connect with me on LinkedIn. Let's create something amazing together!</strong> 🌟
+</p>
