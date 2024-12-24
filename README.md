@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/OmarGuesmi1/OmarGuesmi1/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-12-24%20193932.png" alt="Profile Banner" width="100%">
 </p>
-# 👋 Hi, I’m @OmarGuesmi1
+#👋 Hi, I’m @OmarGuesmi1
 
 👀 I’m passionate about **technology**, **frameworks**, and exploring innovative tools to solve real-world problems.  
 🌱 I’m currently learning **Angular**, **Spring Boot**, **Symfony**, and **Java** to enhance my skills as a software engineering student.  
