@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/OmarGuesmi1/OmarGuesmi1/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-12-24%20193932.png" alt="Profile Banner" width="100%">
+  <img src="https://github.com/OmarGuesmi1/OmarGuesmi1/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-12-24%20193932.png" alt="Profile Banner" width="90%">
 </p>
 
 <h1 align="center">👋 Welcome to Omar Guesmi's GitHub</h1>
@@ -64,9 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGuesmi1&layout=compact&theme=radical" alt="Top Languages" height="165">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OmarGuesmi1&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
-</p>
+
 
 
 
