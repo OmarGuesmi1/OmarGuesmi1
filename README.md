@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/OmarGuesmi1/OmarGuesmi1/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-12-24%20193932.png" alt="Profile Banner" width="90%">
+  <img src="https://github.com/OmarGuesmi1/OmarGuesmi1/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-12-24%20193932.png" alt="Profile Banner" width="95%">
 </p>
 
 <h1 align="center">👋 Welcome to Omar Guesmi's GitHub</h1>
