@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Welcome to Omar Guesmi's GitHub</h1>
 
-<p align="center" style="font-size: 1.2rem;">
+<p align="center" style="font-size: 1.2rem; animation: fadeIn 2s;">
   <strong>Software Engineering Student</strong> | <strong>Tech Enthusiast</strong> | <strong>Problem Solver</strong>  
   <br>
   <em>"Turning innovative ideas into real-world solutions"</em>
@@ -23,10 +23,10 @@
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-guesmi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transform: scale(1); transition: transform 0.3s ease-in-out; animation: pulse 1.5s infinite;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <a href="https://github.com/OmarGuesmi1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="transform: scale(1); transition: transform 0.3s ease-in-out; animation: pulse 1.5s infinite;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack  
 
 ### 🚀 Languages & Frameworks  
-<p align="center">
+<p align="center" style="animation: slideInLeft 1.5s;">
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="90">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" height="90">
   <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="Angular" height="90">
@@ -45,12 +45,12 @@
 </p>
 
 ### 🗄️ Databases & Cloud  
-<p align="center">
+<p align="center" style="animation: slideInRight 1.5s;">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="90">
 </p>
 
 ### 🛠 Tools & Platforms  
-<p align="center">
+<p align="center" style="animation: bounceIn 1.5s;">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="90">
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" height="90">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VSCode" height="90">
@@ -60,8 +60,9 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarGuesmi1&theme=radical&fire=FF4500" alt="GitHub Streak" height="165">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarGuesmi1&theme=radical" alt="Profile Summary" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarGuesmi1&theme=radical&fire=FF4500" alt="GitHub Streak" height="165" style="animation: zoomIn 1.5s;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarGuesmi1&theme=radical" alt="Profile Summary" height="165" style="animation: zoomIn 1.5s;">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarGuesmi1&show_icons=true&theme=radical" alt="GitHub Stats" height="165" style="animation: zoomIn 1.5s;">
 </p>
 
 ---
@@ -82,5 +83,44 @@
 ---
 
 <p align="center">
-  <span style="font-size: 1.3rem;">🌟 <strong>Feel free to explore my repositories, collaborate on exciting projects, and connect with me on LinkedIn. Let's create something amazing together!</strong> 🌟</span>
+  <span style="font-size: 1.3rem; animation: fadeInUp 1.5s;">🌟 <strong>Feel free to explore my repositories, collaborate on exciting projects, and connect with me on LinkedIn. Let's create something amazing together!</strong> 🌟</span>
 </p>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+@keyframes slideInLeft {
+  from { transform: translateX(-100%); }
+  to { transform: translateX(0); }
+}
+
+@keyframes slideInRight {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+
+@keyframes bounceIn {
+  0% { transform: scale(0.5); opacity: 0; }
+  80% { transform: scale(1.05); opacity: 1; }
+  100% { transform: scale(1); }
+}
+
+@keyframes zoomIn {
+  from { transform: scale(0); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+@keyframes fadeInUp {
+  from { transform: translateY(100px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+</style>
