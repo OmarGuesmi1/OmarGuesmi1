@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/OmarGuesmi1/OmarGuesmi1/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-12-24%20193932.png" alt="Profile Banner" width="95%">
+  <img src="https://github.com/OmarGuesmi1/OmarGuesmi1/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-12-24%20193932.png" alt="Profile Banner" width="95%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);">
 </p>
 
 <h1 align="center">👋 Welcome to Omar Guesmi's GitHub</h1>
 
-<p align="center">
+<p align="center" style="font-size: 1.2rem;">
   <strong>Software Engineering Student</strong> | <strong>Tech Enthusiast</strong> | <strong>Problem Solver</strong>  
   <br>
   <em>"Turning innovative ideas into real-world solutions"</em>
@@ -23,10 +23,10 @@
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-guesmi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <a href="https://github.com/OmarGuesmi1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </p>
 
@@ -60,13 +60,9 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarGuesmi1&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGuesmi1&layout=compact&theme=radical" alt="Top Languages" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarGuesmi1&theme=radical&fire=FF4500" alt="GitHub Streak" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarGuesmi1&theme=radical" alt="Profile Summary" height="165">
 </p>
-
-
-
-
 
 ---
 
@@ -86,5 +82,5 @@
 ---
 
 <p align="center">
-  🌟 <strong>Feel free to explore my repositories, collaborate on exciting projects, and connect with me on LinkedIn. Let's create something amazing together!</strong> 🌟
+  <span style="font-size: 1.3rem;">🌟 <strong>Feel free to explore my repositories, collaborate on exciting projects, and connect with me on LinkedIn. Let's create something amazing together!</strong> 🌟</span>
 </p>
