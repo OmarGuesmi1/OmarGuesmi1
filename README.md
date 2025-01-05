@@ -85,35 +85,7 @@
   <span style="font-size: 1.3rem; animation: fadeInUp 1.5s;">🌟 <strong>Feel free to explore my repositories, collaborate on exciting projects, and connect with me on LinkedIn. Let's create something amazing together!</strong> 🌟</span>
 </p>
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
 
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-
-@keyframes slideInLeft {
-  from { transform: translateX(-100%); }
-  to { transform: translateX(0); }
-}
-
-@keyframes slideInRight {
-  from { transform: translateX(100%); }
-  to { transform: translateX(0); }
-}
-
-@keyframes bounceIn {
-  0% { transform: scale(0.5); opacity: 0; }
-  80% { transform: scale(1.05); opacity: 1; }
-  100% { transform: scale(1); }
-}
-
-@keyframes zoomIn {
   from { transform: scale(0); opacity: 0; }
   to { transform: scale(1); opacity: 1; }
 }
