@@ -62,7 +62,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarGuesmi1&theme=radical&fire=FF4500" alt="GitHub Streak" height="165" style="animation: zoomIn 1.5s;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarGuesmi1&theme=radical" alt="Profile Summary" height="165" style="animation: zoomIn 1.5s;">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarGuesmi1&show_icons=true&theme=radical" alt="GitHub Stats" height="165" style="animation: zoomIn 1.5s;">
 </p>
 
 ---
