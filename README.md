@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://github.com/OmarGuesmi1/OmarGuesmi1/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-12-24%20193932.png" alt="Profile Banner" width="95%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);">
+  <img src="https://github.com/OmarGuesmi1/OmarGuesmi1/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-12-24%20193932.png" alt="Profile Banner" width="95%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25); animation: fadeInDown 2s;">
 </p>
 
-<h1 align="center">👋 Welcome to Omar Guesmi's GitHub</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4A90E2;">
+  <span style="animation: bounceIn 1.5s;">👋 Welcome to Omar Guesmi's GitHub</span>
+</h1>
 
 <p align="center" style="font-size: 1.2rem; animation: fadeIn 2s;">
   <strong>Software Engineering Student</strong> | <strong>Tech Enthusiast</strong> | <strong>Problem Solver</strong>  
@@ -13,10 +15,12 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🌟 I’m passionate about technology and creating impactful applications.  
-- 🚀 Currently diving deep into **Angular**, **Spring Boot**, **Symfony**, and **Java**.  
-- 🧠 I love solving challenging problems and exploring modern frameworks.  
-- 📚 Firm believer in **continuous learning** and staying updated with the latest tech trends.  
+<ul style="list-style: none; padding: 0;">
+  <li style="animation: slideInLeft 1.5s;">🌟 Passionate about technology and creating impactful applications.</li>
+  <li style="animation: slideInLeft 2s;">🚀 Exploring **Angular**, **Spring Boot**, **Symfony**, and **Java** in depth.</li>
+  <li style="animation: slideInLeft 2.5s;">🧠 Love tackling challenging problems and modern frameworks.</li>
+  <li style="animation: slideInLeft 3s;">📚 Advocate of **continuous learning** and staying updated.</li>
+</ul>
 
 ---
 
@@ -47,6 +51,8 @@
 ### 🗄️ Databases & Cloud  
 <p align="center" style="animation: slideInRight 1.5s;">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="90">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" height="90">
+  <img src="https://www.vectorlogo.zone/logos/aws/aws-ar21.svg" alt="AWS" height="90">
 </p>
 
 ### 🛠 Tools & Platforms  
@@ -67,22 +73,35 @@
 ---
 
 ## 🎯 Current Focus and Goals  
-- 🌱 Deepening my expertise in **backend architecture** and **cloud technologies**.  
-- 💻 Building full-stack applications with clean, scalable, and maintainable code.  
-- 🧩 Exploring **AI tools**, **machine learning frameworks**, and cloud integrations.  
+<ul style="list-style: none; padding: 0;">
+  <li style="animation: fadeInUp 1s;">🌱 Sharpening skills in **backend architecture** and **cloud technologies**.</li>
+  <li style="animation: fadeInUp 1.5s;">💻 Creating scalable, maintainable full-stack applications.</li>
+  <li style="animation: fadeInUp 2s;">🧩 Exploring **AI tools**, **machine learning**, and cloud integration.</li>
+</ul>
 
 ---
 
 ## 📢 Fun Facts  
-- 💡 I’m a tech enthusiast who loves debugging and solving challenges.  
-- 🌍 Apart from coding, I enjoy **traveling** and learning about different cultures.  
-- 🎵 Music helps me focus while coding.  
-- 🎥 Passionate about **anime**, **manga**, **series**, and **movies**.  
+<ul style="list-style: none; padding: 0;">
+  <li style="animation: flipInX 1.5s;">💡 Thrilled by debugging and solving complex challenges.</li>
+  <li style="animation: flipInX 2s;">🌍 Enthusiast of traveling and discovering cultures.</li>
+  <li style="animation: flipInX 2.5s;">🎵 Music boosts my coding concentration.</li>
+  <li style="animation: flipInX 3s;">🎥 Avid fan of anime, manga, series, and movies.</li>
+</ul>
 
 ---
 
 <p align="center">
-  <span style="font-size: 1.3rem; animation: fadeInUp 1.5s;">🌟 <strong>Feel free to explore my repositories, collaborate on exciting projects, and connect with me on LinkedIn. Let's create something amazing together!</strong> 🌟</span>
+  <span style="font-size: 1.3rem; animation: fadeInUp 1.5s;">🌟 <strong>Explore my projects, collaborate, and connect on LinkedIn. Let's innovate together!</strong> 🌟</span>
 </p>
 
-
+<style>
+@keyframes fadeInDown { from { opacity: 0; transform: translateY(-50px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes bounceIn { 0%, 20%, 50%, 80%, 100% { transform: translateY(0); } 40% { transform: translateY(-30px); } 60% { transform: translateY(-15px); } }
+@keyframes slideInLeft { from { transform: translateX(-100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+@keyframes slideInRight { from { transform: translateX(100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+@keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } }
+@keyframes zoomIn { from { transform: scale(0); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+@keyframes fadeInUp { from { opacity: 0; transform: translateY(50px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes flipInX { from { transform: perspective(400px) rotateX(90deg); opacity: 0; } to { transform: perspective(400px) rotateX(0); opacity: 1; } }
+</style>
