@@ -51,8 +51,6 @@
 ### 🗄️ Databases & Cloud  
 <p align="center" style="animation: slideInRight 1.5s;">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="90">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" height="90">
-  <img src="https://www.vectorlogo.zone/logos/aws/aws-ar21.svg" alt="AWS" height="90">
 </p>
 
 ### 🛠 Tools & Platforms  
@@ -91,13 +89,3 @@
   <span style="font-size: 1.3rem; animation: fadeInUp 1.5s;">🌟 <strong>Explore my projects, collaborate, and connect on LinkedIn. Let's innovate together!</strong> 🌟</span>
 </p>
 
-<style>
-@keyframes fadeInDown { from { opacity: 0; transform: translateY(-50px); } to { opacity: 1; transform: translateY(0); } }
-@keyframes bounceIn { 0%, 20%, 50%, 80%, 100% { transform: translateY(0); } 40% { transform: translateY(-30px); } 60% { transform: translateY(-15px); } }
-@keyframes slideInLeft { from { transform: translateX(-100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
-@keyframes slideInRight { from { transform: translateX(100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
-@keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } }
-@keyframes zoomIn { from { transform: scale(0); opacity: 0; } to { transform: scale(1); opacity: 1; } }
-@keyframes fadeInUp { from { opacity: 0; transform: translateY(50px); } to { opacity: 1; transform: translateY(0); } }
-@keyframes flipInX { from { transform: perspective(400px) rotateX(90deg); opacity: 0; } to { transform: perspective(400px) rotateX(0); opacity: 1; } }
-</style>
