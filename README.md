@@ -1,3 +1,5 @@
+# Omar Guesmi's GitHub ReadMe
+
 <p align="center">
   <img src="https://github.com/OmarGuesmi1/OmarGuesmi1/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-12-24%20193932.png" alt="Profile Banner" width="95%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25); animation: fadeInDown 2s;">
 </p>
@@ -15,12 +17,10 @@
 ---
 
 ## 🧑‍💻 About Me  
-<ul style="list-style: none; padding: 0;">
-  <li style="animation: slideInLeft 1.5s;">🌟 Passionate about technology and creating impactful applications.</li>
-  <li style="animation: slideInLeft 2s;">🚀 Exploring **Angular**, **Spring Boot**, **Symfony**, and **Java** in depth.</li>
-  <li style="animation: slideInLeft 2.5s;">🧠 Love tackling challenging problems and modern frameworks.</li>
-  <li style="animation: slideInLeft 3s;">📚 Advocate of **continuous learning** and staying updated.</li>
-</ul>
+- 🌟 Passionate about technology and creating impactful applications.
+- 🚀 Exploring **Angular**, **Spring Boot**, **Symfony**, and **Java** in depth.
+- 🧠 Love tackling challenging problems and modern frameworks.
+- 📚 Advocate of **continuous learning** and staying updated.
 
 ---
 
@@ -73,21 +73,17 @@
 ---
 
 ## 🎯 Current Focus and Goals  
-<ul style="list-style: none; padding: 0;">
-  <li style="animation: fadeInUp 1s;">🌱 Sharpening skills in **backend architecture** and **cloud technologies**.</li>
-  <li style="animation: fadeInUp 1.5s;">💻 Creating scalable, maintainable full-stack applications.</li>
-  <li style="animation: fadeInUp 2s;">🧩 Exploring **AI tools**, **machine learning**, and cloud integration.</li>
-</ul>
+- 🌱 Sharpening skills in **backend architecture** and **cloud technologies**.
+- 💻 Creating scalable, maintainable full-stack applications.
+- 🧩 Exploring **AI tools**, **machine learning**, and cloud integration.
 
 ---
 
 ## 📢 Fun Facts  
-<ul style="list-style: none; padding: 0;">
-  <li style="animation: flipInX 1.5s;">💡 Thrilled by debugging and solving complex challenges.</li>
-  <li style="animation: flipInX 2s;">🌍 Enthusiast of traveling and discovering cultures.</li>
-  <li style="animation: flipInX 2.5s;">🎵 Music boosts my coding concentration.</li>
-  <li style="animation: flipInX 3s;">🎥 Avid fan of anime, manga, series, and movies.</li>
-</ul>
+- 💡 Thrilled by debugging and solving complex challenges.
+- 🌍 Enthusiast of traveling and discovering cultures.
+- 🎵 Music boosts my coding concentration.
+- 🎥 Avid fan of anime, manga, series, and movies.
 
 ---
 
