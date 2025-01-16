@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/OmarGuesmi1/OmarGuesmi1/blob/main/Capture%20d%E2%80%99%C3%A9cran%202024-12-24%20193932.png" alt="Profile Banner" width="95%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25); animation: fadeInDown 2s;">
-</p>
 
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #4A90E2;">
   <span style="animation: bounceIn 1.5s;">👋 Welcome to Omar Guesmi's GitHub</span>
