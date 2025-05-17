@@ -30,7 +30,7 @@
 
 ### 💾 Databases & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,vscode,git,github" />
 </p>
 
 ---
@@ -84,9 +84,7 @@
 
 ## 📬 Let's Collaborate!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="280" alt="let's collaborate">
-</p>
+
 
 <p align="center">
   <b>Feel free to explore my repos, fork projects, or reach out. Let's build something awesome together!</b>
