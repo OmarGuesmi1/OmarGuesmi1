@@ -26,7 +26,7 @@
 
 ### 🔸 Databases & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
 ---
