@@ -1,32 +1,28 @@
-
-
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #4A90E2;">
-  <span style="animation: bounceIn 1.5s;">👋 Welcome to Omar Guesmi's GitHub</span>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=1000&lines=👋+Hello%2C+I'm+Omar+Guesmi!;Software+Engineering+Student;Tech+Enthusiast+%7C+Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
 </h1>
-
-<p align="center" style="font-size: 1.2rem; animation: fadeIn 2s;">
-  <strong>Software Engineering Student</strong> | <strong>Tech Enthusiast</strong> | <strong>Problem Solver</strong>  
-  <br>
-  <em>"Turning innovative ideas into real-world solutions"</em>
-</p>
 
 ---
 
-## 🧑‍💻 About Me  
-- 🌟 Passionate about technology and creating impactful applications.
-- 🚀 Exploring **Angular**, **Spring Boot**, **Symfony**, and **Java** in depth.
-- 🧠 Love tackling challenging problems and modern frameworks.
-- 📚 Advocate of **continuous learning** and staying updated.
+## 🧠 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
+
+- 🎓 Student in **Software Engineering**
+- 🔭 Currently exploring **Angular**, **Spring Boot**, **Symfony**, and **Java**
+- 💡 Passionate about building **real-world solutions**
+- 💬 Ask me about **web development**, **REST APIs**, or **Java backend**
+- 🎯 Goal: Become a **full-stack architect**
+- 🧠 Motto: *"Turning innovative ideas into impactful solutions"*
 
 ---
 
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-guesmi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transform: scale(1); transition: transform 0.3s ease-in-out; animation: pulse 1.5s infinite;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Guesmi-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/OmarGuesmi1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="transform: scale(1); transition: transform 0.3s ease-in-out; animation: pulse 1.5s infinite;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/GitHub-OmarGuesmi1-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -35,57 +31,68 @@
 ## 🛠️ Tech Stack  
 
 ### 🚀 Languages & Frameworks  
-<p align="center" style="animation: slideInLeft 1.5s;">
-  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="90">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" height="90">
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="Angular" height="90">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot" height="90">
-  <img src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg" alt="Symfony" height="90">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" height="90">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,angular,spring,symfony,python" />
 </p>
 
 ### 🗄️ Databases & Cloud  
-<p align="center" style="animation: slideInRight 1.5s;">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="90">
-</p>
-
-### 🛠 Tools & Platforms  
-<p align="center" style="animation: bounceIn 1.5s;">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" height="90">
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" height="90">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VSCode" height="90">
-</p>
-
----
-
-## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarGuesmi1&theme=radical&fire=FF4500" 
-       alt="GitHub Streak" height="165">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarGuesmi1&theme=radical" 
-       alt="Profile Summary" height="165">
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-
-
----
-
-## 🎯 Current Focus and Goals  
-- 🌱 Sharpening skills in **backend architecture** and **cloud technologies**.
-- 💻 Creating scalable, maintainable full-stack applications.
-- 🧩 Exploring **AI tools**, **machine learning**, and cloud integration.
+### 🧰 Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,postman" />
+</p>
 
 ---
 
-## 📢 Fun Facts  
-- 💡 Thrilled by debugging and solving complex challenges.
-- 🌍 Enthusiast of traveling and discovering cultures.
-- 🎵 Music boosts my coding concentration.
-- 🎥 Avid fan of anime, manga, series, and movies.
-
----
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <span style="font-size: 1.3rem; animation: fadeInUp 1.5s;">🌟 <strong>Explore my projects, collaborate, and connect on LinkedIn. Let's innovate together!</strong> 🌟</span>
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarGuesmi1&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarGuesmi1&theme=radical" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarGuesmi1&theme=radical" />
+</p>
+
+---
+
+## 📌 Projects Showcase
+Here are a few highlights from my repositories:
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **📚 Virtual Library System** | A Symfony/Angular-based platform to manage digital books for different academic levels | Symfony, Angular, MySQL |
+| **📦 Inventory Manager** | CRUD-based app to manage materials and users in an enterprise | Spring Boot, Bootstrap, Thymeleaf |
+| **💬 AI Chat Assistant** | Assistant with facial recognition and real-time notifications | Python, TensorFlow, OpenCV |
+
+---
+
+## 🎯 Goals & Focus (2025)
+- 🧱 Build scalable **full-stack** applications
+- ☁️ Deepen knowledge in **Cloud**, **CI/CD**, and **Docker**
+- 🤖 Explore **AI/ML**, **chatbots**, and intelligent systems
+- 🧪 Contribute to open-source & personal R&D projects
+
+---
+
+## 🎉 Fun Facts
+- 🧠 Debugging is like solving a mystery with logic
+- 🎧 Music helps me reach flow state in coding
+- 🌍 I love discovering cultures through travel and food
+- 🎥 I'm an anime & movie lover — ask for recs!
+
+---
+
+## ✨ Let's Build Together!
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300">
+</p>
+
+<p align="center">
+  <strong>Feel free to check my work, collaborate, or just say hi on LinkedIn!</strong><br>
+  🌐 <a href="https://github.com/OmarGuesmi1">github.com/OmarGuesmi1</a>
+</p>
