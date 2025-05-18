@@ -107,89 +107,6 @@
 <br>
 
 <!-- Featured Projects Section -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=F7D747&center=true&vCenter=true&width=500&height=60&lines=🚀+Featured+Projects" alt="Featured Projects" />
-</h2>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="250" />
-</div>
-
-<br>
-
-<!-- Project 1 -->
-<div align="center">
-  <div align="center">
-    <h2 style="color: #4A90E2;">📚 Virtual Library</h2>
-    <img src="https://cdn.dribbble.com/userupload/4159434/file/original-6f2a9eabd2cef21f776e1bfd9c1f4ba5.png?compress=1&resize=1200x900" style="width: 80%; border-radius: 10px; margin: 15px 0;" alt="Virtual Library"/>
-    <div>
-      <a href="https://github.com/OmarGuesmi1" target="_blank">
-        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-      </a>
-      <a href="https://github.com/OmarGuesmi1" target="_blank">
-        <img src="https://img.shields.io/badge/DEMO-39FF14?style=for-the-badge&logoColor=black"/>
-      </a>
-    </div>
-    <p><strong>Angular, Symfony, MySQL</strong> - Book management platform with level-based access and subscriptions</p>
-  </div>
-</div>
-
-<br>
-
-<!-- Project 2 -->
-<div align="center">
-  <div align="center">
-    <h2 style="color: #4ED24E;">🧾 Material Manager</h2>
-    <img src="https://cdn.dribbble.com/users/2095589/screenshots/17469959/media/3f28d2a7e71f2d6e0d785135d28d52f2.png?compress=1&resize=1200x900" style="width: 80%; border-radius: 10px; margin: 15px 0;" alt="Material Manager"/>
-    <div>
-      <a href="https://github.com/OmarGuesmi1" target="_blank">
-        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-      </a>
-      <a href="https://github.com/OmarGuesmi1" target="_blank">
-        <img src="https://img.shields.io/badge/DEMO-39FF14?style=for-the-badge&logoColor=black"/>
-      </a>
-    </div>
-    <p><strong>Spring Boot, Bootstrap</strong> - CRUD app for managing users and materials</p>
-  </div>
-</div>
-
-<br>
-
-<!-- Project 3 -->
-<div align="center">
-  <div align="center">
-    <h2 style="color: #9D4EDD;">🤖 Smart Assistant</h2>
-    <img src="https://cdn.dribbble.com/users/1019864/screenshots/6765503/chatbot_4x.jpg?compress=1&resize=1200x900" style="width: 80%; border-radius: 10px; margin: 15px 0;" alt="Smart Assistant"/>
-    <div>
-      <a href="https://github.com/OmarGuesmi1" target="_blank">
-        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-      </a>
-      <a href="https://github.com/OmarGuesmi1" target="_blank">
-        <img src="https://img.shields.io/badge/DEMO-39FF14?style=for-the-badge&logoColor=black"/>
-      </a>
-    </div>
-    <p><strong>Python, Flask, OpenCV</strong> - Facial recognition assistant with real-time alerts</p>
-  </div>
-</div>
-
-<br>
-
-<!-- Project 4 -->
-<div align="center">
-  <div align="center">
-    <h2 style="color: #FF6B6B;">🌐 Portfolio Website</h2>
-    <img src="https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900" style="width: 80%; border-radius: 10px; margin: 15px 0;" alt="Portfolio Website"/>
-    <div>
-      <a href="https://github.com/OmarGuesmi1" target="_blank">
-        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-      </a>
-      <a href="https://github.com/OmarGuesmi1" target="_blank">
-        <img src="https://img.shields.io/badge/LIVE-39FF14?style=for-the-badge&logoColor=black"/>
-      </a>
-    </div>
-    <p><strong>React, Tailwind CSS</strong> - Personal portfolio showcasing projects and skills</p>
-  </div>
-</div>
 
 <div align="center">
   <p>
@@ -259,9 +176,7 @@
 <br>
 
 <!-- Connect With Me Section -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=60&lines=🌐+Connect+With+Me" alt="Connect With Me" />
-</h2>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="300" />
@@ -275,9 +190,6 @@
   </a>
   <a href="https://github.com/OmarGuesmi1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
