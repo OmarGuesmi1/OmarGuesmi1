@@ -49,7 +49,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,angular,spring,symfony,nodejs,bootstrap,express,mysql,git,github,vscode,postman,swagger,intellij,webstorm&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,angular,spring,symfony,nodejs,bootstrap,mysql,git,github,vscode,postman,webstorm&perline=10" />
 </div>
 
 <br>
