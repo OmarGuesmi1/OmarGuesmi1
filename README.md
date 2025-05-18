@@ -170,17 +170,17 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postman,swagger,intellij,vscode,webstorm&perline=5" />
+  <img src="https://skillicons.dev/icons?i=postman,vscode,webstorm&perline=5" />
 </div>
 
 <br>
 
 <!-- Connect With Me Section -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=60&lines=🌐+Connect+With+Me" alt="Connect With Me" />
+</h2>
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="300" />
-</div>
 
 <br>
 
