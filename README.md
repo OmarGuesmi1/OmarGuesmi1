@@ -28,17 +28,10 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" />
-</div>
-
-<br>
-
-<div align="center">
+<!-- About Me Section -->
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=60&lines=🧑‍💻+About+Me" alt="About Me" />
-</div>
-
-<br>
+</h2>
 
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="250" />
@@ -46,13 +39,11 @@
 
 <br>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <div style="text-align: left; max-width: 600px; margin: 0 auto;">
-    <h3>🎓 <b>Software Engineering Student</b> passionate about building impactful software.</h3>
-    <h3>💡 I thrive on creating modern web applications and exploring new tech.</h3>
-    <h3>🚀 Always curious, always learning: from Full-Stack Dev to AI & Cloud!</h3>
-    <h3>🌍 Based in Tunisia, collaborating globally.</h3>
-  </div>
+<div align="center">
+  <h3>🎓 <b>Software Engineering Student</b> passionate about building impactful software.</h3>
+  <h3>💡 I thrive on creating modern web applications and exploring new tech.</h3>
+  <h3>🚀 Always curious, always learning: from Full-Stack Dev to AI & Cloud!</h3>
+  <h3>🌍 Based in Tunisia, collaborating globally.</h3>
 </div>
 
 <br>
@@ -63,17 +54,10 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
+<!-- Tech Stack Section -->
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&height=60&lines=🛠+Tech+Stack" alt="Tech Stack" />
-</div>
-
-<br>
+</h2>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" />
@@ -81,9 +65,7 @@
 
 <br>
 
-<div align="center">
-  <h2>🔹 Languages</h2>
-</div>
+<h3 align="center">🔹 Languages</h3>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="90" height="90" />
@@ -94,9 +76,7 @@
 
 <br>
 
-<div align="center">
-  <h2>🔸 Frameworks & Libraries</h2>
-</div>
+<h3 align="center">🔸 Frameworks & Libraries</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="90" height="90" />
@@ -108,9 +88,7 @@
 
 <br>
 
-<div align="center">
-  <h2>🔹 Databases & Tools</h2>
-</div>
+<h3 align="center">🔹 Databases & Tools</h3>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="90" height="90" />
@@ -122,23 +100,16 @@
 <br>
 
 <div align="center">
-  <h2>⚡ My Coding Skills</h2>
+  <h3>⚡ My Coding Skills</h3>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OmarGuesmi1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=500" alt="Most Used Languages" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
+<!-- Featured Projects Section -->
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=F7D747&center=true&vCenter=true&width=500&height=60&lines=🚀+Featured+Projects" alt="Featured Projects" />
-</div>
-
-<br>
+</h2>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="250" />
@@ -146,12 +117,12 @@
 
 <br>
 
-<div align="center" style="display: flex; flex-direction: column; gap: 30px;">
-  <!-- Project 1 -->
-  <div style="background-color: rgba(74, 144, 226, 0.1); border-radius: 16px; padding: 20px; margin-bottom: 30px; width: 80%; margin-left: auto; margin-right: auto;">
+<!-- Project 1 -->
+<div align="center">
+  <div align="center">
     <h2 style="color: #4A90E2;">📚 Virtual Library</h2>
-    <img src="https://cdn.dribbble.com/userupload/4159434/file/original-6f2a9eabd2cef21f776e1bfd9c1f4ba5.png?compress=1&resize=1200x900" style="width: 100%; border-radius: 10px; margin: 15px 0;" alt="Virtual Library"/>
-    <div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
+    <img src="https://cdn.dribbble.com/userupload/4159434/file/original-6f2a9eabd2cef21f776e1bfd9c1f4ba5.png?compress=1&resize=1200x900" style="width: 80%; border-radius: 10px; margin: 15px 0;" alt="Virtual Library"/>
+    <div>
       <a href="https://github.com/OmarGuesmi1" target="_blank">
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
       </a>
@@ -159,14 +130,18 @@
         <img src="https://img.shields.io/badge/DEMO-39FF14?style=for-the-badge&logoColor=black"/>
       </a>
     </div>
-    <p style="font-size: 18px;"><strong>Angular, Symfony, MySQL</strong> - Book management platform with level-based access and subscriptions</p>
+    <p><strong>Angular, Symfony, MySQL</strong> - Book management platform with level-based access and subscriptions</p>
   </div>
+</div>
 
-  <!-- Project 2 -->
-  <div style="background-color: rgba(77, 210, 78, 0.1); border-radius: 16px; padding: 20px; margin-bottom: 30px; width: 80%; margin-left: auto; margin-right: auto;">
+<br>
+
+<!-- Project 2 -->
+<div align="center">
+  <div align="center">
     <h2 style="color: #4ED24E;">🧾 Material Manager</h2>
-    <img src="https://cdn.dribbble.com/users/2095589/screenshots/17469959/media/3f28d2a7e71f2d6e0d785135d28d52f2.png?compress=1&resize=1200x900" style="width: 100%; border-radius: 10px; margin: 15px 0;" alt="Material Manager"/>
-    <div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
+    <img src="https://cdn.dribbble.com/users/2095589/screenshots/17469959/media/3f28d2a7e71f2d6e0d785135d28d52f2.png?compress=1&resize=1200x900" style="width: 80%; border-radius: 10px; margin: 15px 0;" alt="Material Manager"/>
+    <div>
       <a href="https://github.com/OmarGuesmi1" target="_blank">
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
       </a>
@@ -174,14 +149,18 @@
         <img src="https://img.shields.io/badge/DEMO-39FF14?style=for-the-badge&logoColor=black"/>
       </a>
     </div>
-    <p style="font-size: 18px;"><strong>Spring Boot, Bootstrap</strong> - CRUD app for managing users and materials</p>
+    <p><strong>Spring Boot, Bootstrap</strong> - CRUD app for managing users and materials</p>
   </div>
+</div>
 
-  <!-- Project 3 -->
-  <div style="background-color: rgba(157, 78, 221, 0.1); border-radius: 16px; padding: 20px; margin-bottom: 30px; width: 80%; margin-left: auto; margin-right: auto;">
+<br>
+
+<!-- Project 3 -->
+<div align="center">
+  <div align="center">
     <h2 style="color: #9D4EDD;">🤖 Smart Assistant</h2>
-    <img src="https://cdn.dribbble.com/users/1019864/screenshots/6765503/chatbot_4x.jpg?compress=1&resize=1200x900" style="width: 100%; border-radius: 10px; margin: 15px 0;" alt="Smart Assistant"/>
-    <div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
+    <img src="https://cdn.dribbble.com/users/1019864/screenshots/6765503/chatbot_4x.jpg?compress=1&resize=1200x900" style="width: 80%; border-radius: 10px; margin: 15px 0;" alt="Smart Assistant"/>
+    <div>
       <a href="https://github.com/OmarGuesmi1" target="_blank">
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
       </a>
@@ -189,14 +168,18 @@
         <img src="https://img.shields.io/badge/DEMO-39FF14?style=for-the-badge&logoColor=black"/>
       </a>
     </div>
-    <p style="font-size: 18px;"><strong>Python, Flask, OpenCV</strong> - Facial recognition assistant with real-time alerts</p>
+    <p><strong>Python, Flask, OpenCV</strong> - Facial recognition assistant with real-time alerts</p>
   </div>
+</div>
 
-  <!-- Project 4 -->
-  <div style="background-color: rgba(255, 107, 107, 0.1); border-radius: 16px; padding: 20px; margin-bottom: 30px; width: 80%; margin-left: auto; margin-right: auto;">
+<br>
+
+<!-- Project 4 -->
+<div align="center">
+  <div align="center">
     <h2 style="color: #FF6B6B;">🌐 Portfolio Website</h2>
-    <img src="https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900" style="width: 100%; border-radius: 10px; margin: 15px 0;" alt="Portfolio Website"/>
-    <div style="display: flex; justify-content: center; gap: 10px; margin: 15px 0;">
+    <img src="https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900" style="width: 80%; border-radius: 10px; margin: 15px 0;" alt="Portfolio Website"/>
+    <div>
       <a href="https://github.com/OmarGuesmi1" target="_blank">
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
       </a>
@@ -204,29 +187,22 @@
         <img src="https://img.shields.io/badge/LIVE-39FF14?style=for-the-badge&logoColor=black"/>
       </a>
     </div>
-    <p style="font-size: 18px;"><strong>React, Tailwind CSS</strong> - Personal portfolio showcasing projects and skills</p>
+    <p><strong>React, Tailwind CSS</strong> - Personal portfolio showcasing projects and skills</p>
   </div>
 </div>
 
 <div align="center">
-  <p style="font-size: 18px;">
+  <p>
     🔗 <i>Explore more on <a href="https://github.com/OmarGuesmi1">my GitHub profile</a></i>
   </p>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
+<!-- GitHub Insights Section -->
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=4ED24E&center=true&vCenter=true&width=500&height=60&lines=📊+GitHub+Insights" alt="GitHub Insights" />
-</div>
-
-<br>
+</h2>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300" />
@@ -240,7 +216,7 @@
 
 <br>
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 10px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarGuesmi1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=ff38bd&text_color=a9fef7&title_color=38bdff&ring_color=f2f7b7" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=OmarGuesmi1&theme=tokyonight&hide_border=true&background=1A1B27&ring=F2F7B7&fire=FF38BD&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=38BDFF&sideLabels=38BDFF&dates=A9FEF7" width="49%" />
 </div>
@@ -265,17 +241,10 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
+<!-- Dev Tools Section -->
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=60&lines=🧰+Dev+Tools+I+Use" alt="Dev Tools" />
-</div>
-
-<br>
+</h2>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="300" />
@@ -289,17 +258,10 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="350" />
-</div>
-
-<br>
-
-<div align="center">
+<!-- Connect With Me Section -->
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=60&lines=🌐+Connect+With+Me" alt="Connect With Me" />
-</div>
-
-<br>
+</h2>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="300" />
@@ -321,17 +283,10 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
+<!-- Fun Facts Section -->
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=F7D747&center=true&vCenter=true&width=500&height=60&lines=🎯+Fun+Facts" alt="Fun Facts" />
-</div>
-
-<br>
+</h2>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="250" />
@@ -339,26 +294,19 @@
 
 <br>
 
-<div align="center" style="background-color: rgba(247, 215, 71, 0.1); border-radius: 16px; padding: 20px; width: 80%; margin-left: auto; margin-right: auto;">
-  <h3 style="color: #F7D747;">🎧 Music fuels my productivity</h3>
-  <h3 style="color: #F7D747;">🧠 Debugging is like solving a mystery</h3>
-  <h3 style="color: #F7D747;">🌍 I'm passionate about culture, tech, and coffee</h3>
-  <h3 style="color: #F7D747;">🎥 Huge fan of anime, sci-fi, and documentaries</h3>
+<div align="center">
+  <h3>🎧 Music fuels my productivity</h3>
+  <h3>🧠 Debugging is like solving a mystery</h3>
+  <h3>🌍 I'm passionate about culture, tech, and coffee</h3>
+  <h3>🎥 Huge fan of anime, sci-fi, and documentaries</h3>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
+<!-- Let's Collaborate Section -->
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&height=60&lines=🤝+Let's+Collaborate!" alt="Let's Collaborate" />
-</div>
-
-<br>
+</h2>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8e0731e484d.gif" width="300" />
@@ -366,19 +314,13 @@
 
 <br>
 
-<div align="center" style="background-color: rgba(74, 144, 226, 0.1); border-radius: 16px; padding: 20px; width: 80%; margin-left: auto; margin-right: auto;">
-  <h2 style="color: #4A90E2;">🚀 I'm always open to new ideas, internships, freelance missions, or tech collabs. Let's build the future together!</h2>
-  <div style="margin-top: 20px;">
+<div align="center">
+  <h2>🚀 I'm always open to new ideas, internships, freelance missions, or tech collabs. Let's build the future together!</h2>
+  <div>
     <a href="https://github.com/OmarGuesmi1" target="_blank">
       <img src="https://img.shields.io/badge/View%20My%20Projects-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="View My Projects" />
     </a>
   </div>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </div>
 
 <br>
