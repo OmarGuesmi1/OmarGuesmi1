@@ -22,11 +22,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Software Engineering** student passionate about **innovation and clean code**
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Currently learning **Cloud Computing**, **Next.js**, and **CI/CD workflows**
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Open to collaborations on **Open Source** and exciting tech projects
-
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Fun Fact: I debug better with coffee ☕ and music 🎧
 
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Lifelong learner: always exploring new technologies
 
