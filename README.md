@@ -58,17 +58,17 @@
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="30"/>
 <h3>🚀 Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,spring,symfony,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=angular,nodejs,spring,symfony,bootstrap&theme=dark" />
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd4a22-7c35-4a70-8864-cbc25d61e78e.gif" width="30"/>
 <h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,sqlite,oracle&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,oracle&theme=dark" />
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="30"/>
 <h3>🛠️ Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,docker,github,vscode,figma,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,docker,github,vscode,linux&theme=dark" />
 </td>
 </tr>
 </table>
