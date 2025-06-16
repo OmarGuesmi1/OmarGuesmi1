@@ -169,17 +169,7 @@
 - [x] <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20px"/> Learn Git version control
 - [x] <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="20px"/> Frontend styling with CSS & Bootstrap
 
-</td>
-<td width="50%">
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"/> In Progress
-- [ ] <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20px"/> Master **React** and **Next.js**
-- [ ] <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="20px"/> Learn **AWS** and **Azure**
-- [ ] <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="20px"/> Build & deploy a **Mobile App**
-- [ ] <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="20px"/> Explore **AI/ML** integration
-- [ ] <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="20px"/> Contribute to **10+ OSS projects**
-
-</td>
 </tr>
 </table>
 
@@ -199,7 +189,7 @@
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/Frontend-Development-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=61dafb"/></td>
-<td align="center">🔥 Advanced</td>
+<td align="center">🔥 Good</td>
 <td><img src="https://progress-bar.dev/90/?scale=100&title=90%&width=200&color=61dafb&suffix=%&style=for-the-badge"/></td>
 </tr>
 <tr>
@@ -209,19 +199,11 @@
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/Database-Management-f29111?style=for-the-badge&logo=mysql&logoColor=white&labelColor=f29111"/></td>
-<td align="center">🔧 Solid</td>
+<td align="center">🔧 Good</td>
 <td><img src="https://progress-bar.dev/70/?scale=100&title=70%&width=200&color=f29111&suffix=%&style=for-the-badge"/></td>
 </tr>
-<tr>
-<td><img src="https://img.shields.io/badge/DevOps-Deployment-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=0db7ed"/></td>
-<td align="center">🌱 Beginner</td>
-<td><img src="https://progress-bar.dev/40/?scale=100&title=40%&width=200&color=0db7ed&suffix=%&style=for-the-badge"/></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Mobile-Development-a4c639?style=for-the-badge&logo=android&logoColor=white&labelColor=a4c639"/></td>
-<td align="center">📱 Learning</td>
-<td><img src="https://progress-bar.dev/30/?scale=100&title=30%&width=200&color=a4c639&suffix=%&style=for-the-badge"/></td>
-</tr>
+
+
 </table>
 
 </div>
